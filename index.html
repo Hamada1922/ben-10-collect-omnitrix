@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="image/ben-10-icon.png">
+    <title>Ben 10 Aliens </title>
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container d-flex-center">
+        <div class="start-screen d-flex-center">
+            <h1>Choose Ben Stage</h1>
+            <div class="imgs d-flex-space">
+                <!-- By JS -->
+            </div>
+            <div class="form">
+                <input type="text" placeholder="Enter Your Name">
+                <button>Start</button>
+            </div>
+        </div>
+        <div class="game-screen hide">
+            <div class="info-bar d-flex-space">
+                <h3>Name : <span class="user-name"></span></h3>
+                <h3>Score : <span class="score">0</span></h3>
+                <h3>Lives : <span class="lives">3</span></h3>
+            </div>
+            <div class="content">
+                <div class="game">
+                    <div class="stage">
+                        <div class="progress">
+                            <div class="holder"><span></span></div>
+                        </div>
+                        <div class="field">
+                            <div class="basket"><img src="image/ben-10-icon.png" alt=""></div>
+                        </div>
+                    </div>
+                    <div class="control d-flex-center">
+                        <button class="left">
+                            <i class="fa-solid fa-location-arrow"></i>
+                        </button>
+                        <button class="right">
+                            <i class="fa-solid fa-location-arrow"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="pic d-flex-center">
+                    <img>
+                </div>
+            </div>
+        </div>
+        <div class="result-screen">
+            <h1>You Are A Big Loser</h1>
+            <button class="replay">Replay</button>
+        </div>
+    </div>
+    <!-- 
+    <i class="fa-regular fa-hourglass"></i>
+    <i class="fa-solid fa-heart"></i>
+    <i class="fa-brands fa-mixer"></i>
+ -->
+    <script src="js/all.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

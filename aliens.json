@@ -1,0 +1,47 @@
+[
+    {
+        "index": 0,
+        "ben": "/image/Ben.png",
+        "omnitrix": "/image/Omnitrix.png",
+        "alien-1": "/image/Four_Arms.png",
+        "alien-2": "/image/Heat_Blast.png",
+        "alien-3": "/image/Gray_Matter.png",
+        "alien-4": "/image/Ghost_Freak.png",
+        "alien-5": "/image/XLR8.png",
+        "alien-6": "/image/Wildmutt.png",
+        "alien-7": "/image/Upgrade.png",
+        "alien-8": "/image/Ripjaws.png",
+        "alien-9": "/image/Way_Big.png",
+        "alien-10": "/image/Canon_Ball.png"
+    },
+    {
+        "index": 1,
+        "ben": "/image/Ben-alien-force.png",
+        "omnitrix": "/image/Omnitrix__Alien_Force.png",
+        "alien-1": "/image/Amfibian.png",
+        "alien-2": "/image/Brain_Storm.png",
+        "alien-3": "/image/Chroma_Stone.png",
+        "alien-4": "/image/Goap.png",
+        "alien-5": "/image/Harasbian.png",
+        "alien-6": "/image/Water_Hazard.png",
+        "alien-7": "/image/Spider_Monkey.png",
+        "alien-8": "/image/Jetray.png",
+        "alien-9": "/image/Echo_Echo.png",
+        "alien-10": "/image/Armodrillo.png"
+    },
+    {
+        "index": 2,
+        "ben": "/image/omniverse-Ben.png",
+        "omnitrix": "/image/Omniverse-Omnitrix.png",
+        "alien-1": "/image/Astrodactyl.png",
+        "alien-2": "/image/Big_Chill.png",
+        "alien-3": "/image/Blox.png",
+        "alien-4": "/image/Diamond_Head.png",
+        "alien-5": "/image/FeedBack.png",
+        "alien-6": "/image/Gravattack.png",
+        "alien-7": "/image/Kickin_Hawk.png",
+        "alien-8": "/image/sock.png",
+        "alien-9": "/image/The_Worst.png",
+        "alien-10": "/image/Whampire.png"
+    }
+]

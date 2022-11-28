@@ -123,7 +123,7 @@ function createOmnitrix(obj) {
                     lives.innerHTML = "0";
                 }
             }
-        }, (dropTime * (random + 1)));
+        }, (dropTime * (random + 2)));
     }, 5000);
 }
 //
